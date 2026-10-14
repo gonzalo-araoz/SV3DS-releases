@@ -132,6 +132,11 @@ again; the `.3dsx` is replaced on the SD card, and you open it again from the Ho
 data are kept (the data is converted again by itself when a version needs it). The version is shown in the corner of
 the title screen.
 
+**The HOME Menu icon and banner.** The published `.cia` has none of the game's pictures (a plain icon, an empty
+banner). Installed, the title screen offers to put **your** game's on it: the chicken as the icon and the logo as the
+banner, taken from your converted files on the console. That version is downloaded again and installed with them, and
+every later update keeps them. Nothing of the game leaves your console.
+
 
 ## Sound
 
@@ -401,6 +406,11 @@ Con la consola conectada a internet, la pantalla de título se fija en
 el `.3dsx` se reemplaza en la SD y lo abrís de nuevo desde el Homebrew Launcher. Las partidas y los datos convertidos se
 conservan (los datos se vuelven a convertir solos cuando una versión lo necesita). La versión se ve en la esquina de la
 pantalla de título.
+
+**El ícono y el banner del menú HOME.** El `.cia` publicado no trae ningún dibujo del juego (un ícono genérico y el
+banner vacío). Instalado, la pantalla de título ofrece ponerle los de **tu** juego: la gallina de ícono y el logo de
+banner, sacados de tus archivos convertidos en la consola. Esa versión se baja de nuevo y se instala con ellos, y las
+actualizaciones siguientes los conservan. Nada del juego sale de tu consola.
 
 
 ## Sonido
