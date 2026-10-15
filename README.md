@@ -213,6 +213,10 @@ green bar.
   and its Aged Roe, Poppy Honey (the closest flower in bloom; Wild Honey without one), Dried Apricots, Smoked Catfish
   (it keeps the fish's quality), with the game's prices from the ingredient and their icons in its color.
 - The backpack starts with one row (12 slots), as in the game; Pierre sells the Large and Deluxe Packs.
+- Marriage as in the game: the wedding in the town square with Mayor Lewis and the whole town, then your spouse lives
+  with you and talks with the game's own lines for spouses (the weather, the season, how things are going; now and
+  then a present). Robin's second house upgrade adds the nursery: your spouse may ask for a baby, born 14 days later
+  and named by you; babies sleep in the crib, then crawl around the nursery and walk around the house.
 - The skills, social and map tabs don't pause the game: look at them on the bottom screen while you play.
 - Decorating from the bottom screen: inside the house a last tab shows the room from above; drag furniture with the
   stylus (green where it fits, red where it doesn't), drag in what's in the backpack, A turns it, Y puts it away.
@@ -522,6 +526,10 @@ subir la barra verde.
   florecida; miel silvestre si no hay), fruta deshidratada, bagre ahumado (con la calidad del pescado), con los precios
   del juego según el ingrediente y el ícono de su color.
 - La mochila arranca con una fila (12 espacios), como en el juego; Pierre vende la mochila grande y la de lujo.
+- El casamiento como en el juego: la boda en la plaza con el alcalde Lewis y todo el pueblo, después tu pareja vive
+  con vos y habla con las líneas del juego para esposos (el clima, la estación, cómo va la relación; a veces un
+  regalo). La segunda ampliación de Robin suma el cuarto de los chicos: tu pareja puede pedirte un bebé, que nace a
+  los 14 días y le ponés nombre; duerme en la cuna, después gatea por el cuarto y camina por la casa.
 - Las pestañas de habilidades, relaciones y mapa no pausan el juego: las mirás en la pantalla de abajo mientras jugás.
 - Decorar desde la pantalla de abajo: adentro de la casa aparece una última pestaña con la habitación vista desde
   arriba; arrastrás los muebles con el lápiz (verde donde entran, rojo donde no), metés los de la mochila
