@@ -6,6 +6,12 @@ An unofficial reimplementation of **Stardew Valley** for the (New) Nintendo 3DS.
 
 **Download:** [latest release](https://github.com/gonzalo-araoz/SV3DS-releases/releases/latest) · *[Guía en español](#sv3ds--stardew-valley-para-nintendo-3ds)*
 
+<p align="center">
+  <img src="docs/images/play-npc.png" width="260" alt="Talking to a villager">
+  <img src="docs/images/play-festival.png" width="260" alt="The Egg Festival">
+  <img src="docs/images/play-fest16.png" width="260" alt="The Night Market">
+</p>
+
 **Install it from the console, without taking out the SD card:** in FBI, *Remote Install* → *Scan QR Code*, and point the camera at this code (always the latest `.cia`). Or *Manually Enter URLs* with `https://github.com/gonzalo-araoz/SV3DS-releases/releases/latest/download/sdv3ds.cia`.
 
 <img src="qr.png" width="200" alt="QR code">
@@ -68,6 +74,8 @@ SD card. The app reads the game's files straight from the zip; you don't unzip i
 
 If you open the app without it, it tells you what's missing:
 
+<p align="center"><img src="docs/images/setup-missing.png" width="300" alt="The game files are missing"></p>
+
 ### Step 3 — Open the app and convert
 
 Open **sdv3ds** from the Homebrew Launcher. The first time, it saves your console's sound firmware (see
@@ -78,6 +86,8 @@ Open **sdv3ds** from the Homebrew Launcher. The first time, it saves your consol
 
 Press **A** to start.
 
+<p align="center"><img src="docs/images/setup-options.png" width="300" alt="Set up screen"></p>
+
 ### Step 4 — Wait for the conversion
 
 The console makes the game's data from your files, with a progress bar. It takes a few minutes; keep the console on
@@ -85,9 +95,13 @@ and plugged in. The sounds are left for later: once the game starts they're conv
 play**, with a small "Sounds N%" bar in the corner, and they come on by themselves when it's done. If you quit before
 that, it picks up where it left off next time (from `Content.zip` the bar starts from 0 again, but what's done stays).
 
+<p align="center"><img src="docs/images/setup-converting.png" width="300" alt="Converting the game files"></p>
+
 ### Step 5 — Play
 
 When it's done, the game starts. Next time it goes straight to the title screen.
+
+<p align="center"><img src="docs/images/setup-done.png" width="300" alt="The farm after converting"></p>
 
 You can delete `3ds/sdv3ds/Content` afterwards to free space. If you keep it, a future version of the app that
 needs the data in a new format converts it again by itself.
@@ -163,6 +177,12 @@ because the DSP is emulated.
 **Fishing:** press Y facing water to cast, A when the "!" shows up, then hold A (or touch the screen) to raise the
 green bar.
 
+<p align="center">
+  <img src="docs/images/play-fish.png" width="260" alt="Fishing at the beach">
+  <img src="docs/images/play-craft.png" width="260" alt="Crafting menu">
+  <img src="docs/images/play-fight.png" width="260" alt="The mines">
+</p>
+
 
 ## What's in it
 
@@ -211,6 +231,12 @@ green bar.
 - Emotes: a heart for a loved gift and an angry face for a hated one, villagers who catch you in the trash (Linus
   smiles), the farmer's empty watering can and exhaustion; special items (the Rusty Key, the Skull Key) held up.
 
+<p align="center">
+  <img src="docs/images/play-intro.png" width="260" alt="Grandpa's envelope">
+  <img src="docs/images/play-fishing.png" width="260" alt="A catch held up">
+  <img src="docs/images/play-night.png" width="260" alt="The shipping summary">
+</p>
+
 **Farm**
 - Crops from `Data/Crops` with seasons, watering, regrowth, quality (silver, gold, iridium) by level and
   fertilizer; fruit trees; tool upgrades up to iridium with area charging.
@@ -238,6 +264,12 @@ green bar.
   the traveling cart; the trash cans.
 - Shops of Pierre, Willy, Gus, Harvey, Joja, Clint, Robin, Marnie, Sandy, Marlon and the festivals.
 - The **movie theater** once the Community Center is restored, with the season's film.
+
+<p align="center">
+  <img src="docs/images/play-town.png" width="260" alt="Pelican Town">
+  <img src="docs/images/play-theater.png" width="260" alt="Watching a film">
+  <img src="docs/images/play-casino.png" width="260" alt="Calico Jack at the casino">
+</p>
 
 **Mines and combat**
 - 120 mine levels with the game's layouts, ores, gems, geodes, elevator and treasure floors; the Skull Cavern.
@@ -280,6 +312,12 @@ Una reimplementación no oficial de **Stardew Valley** para (New) Nintendo 3DS. 
 **Acá no hay archivos de Stardew Valley, y las versiones no traen ninguno.** Necesitás tu propia copia del juego (PC: Steam, GOG...): la consola convierte los archivos que copiás de ella. Stardew Valley es © ConcernedApe; este proyecto no está afiliado ni respaldado por ConcernedApe.
 
 **Descarga:** [última versión](https://github.com/gonzalo-araoz/SV3DS-releases/releases/latest)
+
+<p align="center">
+  <img src="docs/images/play-npc.png" width="260" alt="Hablando con un vecino">
+  <img src="docs/images/play-festival.png" width="260" alt="El Festival del Huevo">
+  <img src="docs/images/play-fest16.png" width="260" alt="El Mercado Nocturno">
+</p>
 
 **Instalalo desde la consola, sin sacar la SD:** en FBI, *Remote Install* → *Scan QR Code*, y apuntá la cámara a este código (siempre el `.cia` más nuevo). O *Manually Enter URLs* con `https://github.com/gonzalo-araoz/SV3DS-releases/releases/latest/download/sdv3ds.cia`.
 
@@ -342,6 +380,8 @@ a la raíz de la SD. La app lee los archivos del juego directamente del zip: no 
 
 Si abrís la app sin ella, te dice qué falta:
 
+<p align="center"><img src="docs/images/setup-missing.png" width="300" alt="Faltan los archivos del juego"></p>
+
 ### Paso 3 — Abrí la app y convertí
 
 Abrí **sdv3ds** desde el Homebrew Launcher. La primera vez guarda el firmware de sonido de tu consola (ver
@@ -352,6 +392,8 @@ Abrí **sdv3ds** desde el Homebrew Launcher. La primera vez guarda el firmware d
 
 Apretá **A** para empezar.
 
+<p align="center"><img src="docs/images/setup-options.png" width="300" alt="Pantalla de preparación"></p>
+
 ### Paso 4 — Esperá la conversión
 
 La consola crea los datos del juego desde tus archivos, con una barra de progreso. Tarda unos minutos; dejá la consola
@@ -359,9 +401,13 @@ prendida y enchufada. Los sonidos quedan para después: cuando arranca el juego 
 jugás**, con una barrita "Sonidos N%" en la esquina, y se activan solos al terminar. Si salís antes, la próxima vez
 sigue donde quedó (desde `Content.zip` la barra arranca de 0 otra vez, pero lo hecho no se pierde).
 
+<p align="center"><img src="docs/images/setup-converting.png" width="300" alt="Convirtiendo los archivos del juego"></p>
+
 ### Paso 5 — A jugar
 
 Cuando termina, arranca el juego. Las próximas veces va directo a la pantalla de inicio.
+
+<p align="center"><img src="docs/images/setup-done.png" width="300" alt="La granja después de convertir"></p>
 
 Después podés borrar `3ds/sdv3ds/Content` para liberar espacio. Si la dejás, una versión futura de la app que
 necesite los datos en otro formato los vuelve a convertir sola.
@@ -438,6 +484,12 @@ el DSP se emula.
 **Pesca:** Y mirando el agua para lanzar, A cuando aparece el "!", y después mantené A (o tocá la pantalla) para
 subir la barra verde.
 
+<p align="center">
+  <img src="docs/images/play-fish.png" width="260" alt="Pescando en la playa">
+  <img src="docs/images/play-craft.png" width="260" alt="Menú de fabricación">
+  <img src="docs/images/play-fight.png" width="260" alt="Las minas">
+</p>
+
 
 ## Qué tiene
 
@@ -492,6 +544,12 @@ subir la barra verde.
   basura (Linus sonríe), la regadera vacía y el cansancio del granjero; los objetos especiales (la Llave oxidada, la
   Llave de calavera) los levantás sobre la cabeza.
 
+<p align="center">
+  <img src="docs/images/play-intro.png" width="260" alt="El sobre del abuelo">
+  <img src="docs/images/play-fishing.png" width="260" alt="Un pescado levantado">
+  <img src="docs/images/play-night.png" width="260" alt="El resumen de envíos">
+</p>
+
 **Granja**
 - Cultivos de `Data/Crops` con estaciones, riego, rebrote y calidad (plata, oro, iridio) según nivel y abono;
   árboles frutales; mejoras de herramientas hasta iridio con carga de área.
@@ -521,6 +579,12 @@ subir la barra verde.
   carrito ambulante; los tachos de basura.
 - Tiendas de Pierre, Willy, Gus, Harvey, Joja, Clint, Robin, Marnie, Sandy, Marlon y los festivales.
 - El **cine** cuando restaurás el Centro Comunitario, con la película de la temporada.
+
+<p align="center">
+  <img src="docs/images/play-town.png" width="260" alt="Pueblo Pelícano">
+  <img src="docs/images/play-theater.png" width="260" alt="Viendo una película">
+  <img src="docs/images/play-casino.png" width="260" alt="Calico Jack en el casino">
+</p>
 
 **Minas y combate**
 - 120 niveles con los diseños del juego, minerales, gemas, geodas, ascensor y pisos con tesoro; la Caverna
