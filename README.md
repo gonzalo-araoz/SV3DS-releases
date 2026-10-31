@@ -4,6 +4,8 @@ An unofficial reimplementation of **Stardew Valley** for the (New) Nintendo 3DS.
 
 **No Stardew Valley files are here, and none are included in the releases.** You need your own copy of the game (PC: Steam, GOG...): the console converts the files you copy from it. Stardew Valley is © ConcernedApe; this project isn't affiliated with or endorsed by ConcernedApe.
 
+**It's a beta.** It's played and tested on a New 3DS; it hasn't been tried on an original 3DS or 2DS yet (reports welcome). Found a problem? [Open an issue](https://github.com/gonzalo-araoz/SV3DS-releases/issues) saying what happened and, if you can, with a photo of the screen.
+
 **Download:** [latest release](https://github.com/gonzalo-araoz/SV3DS-releases/releases/latest) · *[Guía en español](#sv3ds--stardew-valley-para-nintendo-3ds)*
 
 <p align="center">
@@ -12,7 +14,7 @@ An unofficial reimplementation of **Stardew Valley** for the (New) Nintendo 3DS.
   <img src="docs/images/play-fest16.png" width="260" alt="The Night Market">
 </p>
 
-**Install it from the console, without taking out the SD card:** in FBI, *Remote Install* → *Scan QR Code*, and point the camera at this code (always the latest `.cia`). Or *Manually Enter URLs* with `https://github.com/gonzalo-araoz/SV3DS-releases/releases/latest/download/sdv3ds.cia`.
+**Install it from the console, without taking out the SD card:** in FBI, *Remote Install* → *Scan QR Code*, and point the camera at this code (always the latest `.cia`). Or *Manually Enter URLs* with `https://github.com/gonzalo-araoz/SV3DS-releases/releases/latest/download/sdv3ds.cia`. You still copy your game's `Content` folder to the SD card once (step 2 of [Installing](#installing-the-console-converts-the-game)).
 
 <img src="qr.png" width="200" alt="QR code">
 
@@ -315,6 +317,8 @@ Una reimplementación no oficial de **Stardew Valley** para (New) Nintendo 3DS. 
 
 **Acá no hay archivos de Stardew Valley, y las versiones no traen ninguno.** Necesitás tu propia copia del juego (PC: Steam, GOG...): la consola convierte los archivos que copiás de ella. Stardew Valley es © ConcernedApe; este proyecto no está afiliado ni respaldado por ConcernedApe.
 
+**Es una beta.** Se juega y se prueba en una New 3DS; todavía no se probó en una 3DS o 2DS original (se agradecen reportes). ¿Encontraste un problema? [Abrí un issue](https://github.com/gonzalo-araoz/SV3DS-releases/issues) contando qué pasó y, si podés, con una foto de la pantalla.
+
 **Descarga:** [última versión](https://github.com/gonzalo-araoz/SV3DS-releases/releases/latest)
 
 <p align="center">
@@ -323,7 +327,7 @@ Una reimplementación no oficial de **Stardew Valley** para (New) Nintendo 3DS. 
   <img src="docs/images/play-fest16.png" width="260" alt="El Mercado Nocturno">
 </p>
 
-**Instalalo desde la consola, sin sacar la SD:** en FBI, *Remote Install* → *Scan QR Code*, y apuntá la cámara a este código (siempre el `.cia` más nuevo). O *Manually Enter URLs* con `https://github.com/gonzalo-araoz/SV3DS-releases/releases/latest/download/sdv3ds.cia`.
+**Instalalo desde la consola, sin sacar la SD:** en FBI, *Remote Install* → *Scan QR Code*, y apuntá la cámara a este código (siempre el `.cia` más nuevo). O *Manually Enter URLs* con `https://github.com/gonzalo-araoz/SV3DS-releases/releases/latest/download/sdv3ds.cia`. Igual tenés que copiar una vez la carpeta `Content` del juego a la SD (paso 2 de [Instalación](#instalación-la-consola-convierte-el-juego)).
 
 <img src="qr.png" width="200" alt="Código QR">
 
