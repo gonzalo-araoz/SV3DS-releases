@@ -101,6 +101,9 @@ that, it picks up where it left off next time (from `Content.zip` the bar starts
 
 <p align="center"><img src="docs/images/setup-converting.png" width="300" alt="Converting the game files"></p>
 
+If the conversion fails, the app leaves `3ds/sdv3ds/setup_mem.log` on the SD card: attach it to an
+[issue](https://github.com/gonzalo-araoz/SV3DS-releases/issues) with a photo of the message.
+
 ### Step 5 — Play
 
 When it's done, the game starts. Next time it goes straight to the title screen.
@@ -421,6 +424,9 @@ jugás**, con una barrita "Sonidos N%" en la esquina, y se activan solos al term
 sigue donde quedó (desde `Content.zip` la barra arranca de 0 otra vez, pero lo hecho no se pierde).
 
 <p align="center"><img src="docs/images/setup-converting.png" width="300" alt="Convirtiendo los archivos del juego"></p>
+
+Si la conversión falla, la app deja `3ds/sdv3ds/setup_mem.log` en la SD: adjuntalo en un
+[issue](https://github.com/gonzalo-araoz/SV3DS-releases/issues) con una foto del mensaje.
 
 ### Paso 5 — A jugar
 
