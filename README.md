@@ -174,7 +174,7 @@ because the DSP is emulated.
 | A | action: talk, give gifts, doors, harvest, pick up, ship, sleep, counters, ladders, hook a fish |
 | L / R | pick the toolbar item (the first row of the backpack); in the menu, go through its tabs |
 | X | open the menu and go through its tabs |
-| Touch screen | tabs; in the backpack, touch two slots to swap them, a ring and then its slot to wear it |
+| Touch screen | tabs; in the backpack, touch two slots to swap them, a ring and then its slot to wear it; an item and then the trash can (right of the tabs) to throw it away, or your portrait to drop it on the ground |
 | SELECT | the journal (quests, special orders, achievements) |
 | START | options (quit from there) and skip events |
 
@@ -216,7 +216,9 @@ green bar.
 - Artisan goods keep what they're made of, as on PC: Blueberry Wine, Cranberry Jelly, Pickled Potato, Catfish Roe
   and its Aged Roe, Poppy Honey (the closest flower in bloom; Wild Honey without one), Dried Apricots, Smoked Catfish
   (it keeps the fish's quality), with the game's prices from the ingredient and their icons in its color.
-- The backpack starts with one row (12 slots), as in the game; Pierre sells the Large and Deluxe Packs.
+- The backpack starts with one row (12 slots), as in the game; Pierre sells the Large and Deluxe Packs. Its trash can
+  throws things away and anything can be dropped on the ground; the shipping bin takes anything the game ships, even
+  trash worth 0g.
 - Marriage as in the game: the wedding in the town square with Mayor Lewis and the whole town, then your spouse lives
   with you and talks with the game's own lines for spouses (the weather, the season, how things are going; now and
   then a present). Robin's second house upgrade adds the nursery: your spouse may ask for a baby, born 14 days later
@@ -490,7 +492,7 @@ el DSP se emula.
 | A | acción: hablar, regalar, puertas, cosechar, juntar, enviar, dormir, mostradores, escaleras, enganchar el pez |
 | L / R | elegir el objeto de la barra (la primera fila de la mochila); en el menú, recorrer las pestañas |
 | X | abrir el menú y recorrer sus pestañas |
-| Táctil | pestañas; en la mochila, tocá dos espacios para cambiarlos, y un anillo y después su espacio para ponértelo |
+| Táctil | pestañas; en la mochila, tocá dos espacios para cambiarlos, y un anillo y después su espacio para ponértelo; un objeto y después el tacho (a la derecha de las pestañas) para tirarlo, o tu retrato para soltarlo en el suelo |
 | SELECT | el diario (misiones, pedidos especiales, logros) |
 | START | opciones (desde ahí se sale) y saltear eventos |
 
@@ -534,7 +536,9 @@ subir la barra verde.
   rojos, encurtidos de papa, huevas de bagre y sus huevas envejecidas, miel de amapola (la flor más cercana que esté
   florecida; miel silvestre si no hay), fruta deshidratada, bagre ahumado (con la calidad del pescado), con los precios
   del juego según el ingrediente y el ícono de su color.
-- La mochila arranca con una fila (12 espacios), como en el juego; Pierre vende la mochila grande y la de lujo.
+- La mochila arranca con una fila (12 espacios), como en el juego; Pierre vende la mochila grande y la de lujo. Su
+  tacho tira cosas y cualquier objeto se puede soltar en el suelo; la caja de envíos acepta todo lo que acepta el juego,
+  hasta la basura que vale 0g.
 - El casamiento como en el juego: la boda en la plaza con el alcalde Lewis y todo el pueblo, después tu pareja vive
   con vos y habla con las líneas del juego para esposos (el clima, la estación, cómo va la relación; a veces un
   regalo). La segunda ampliación de Robin suma el cuarto de los chicos: tu pareja puede pedirte un bebé, que nace a
