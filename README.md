@@ -272,7 +272,9 @@ green bar.
   story quests, and **achievements**.
 - The Community Center with all 31 bundles and their rewards, or the Joja route; the museum; the sewers and Krobus;
   the traveling cart; the trash cans.
-- Shops of Pierre, Willy, Gus, Harvey, Joja, Clint, Robin, Marnie, Sandy, Marlon and the festivals.
+- Shops of Pierre, Willy, Gus, Harvey, Joja, Clint, Robin, Marnie, Sandy, Marlon and the festivals. X switches to
+  selling: each shop buys what it buys in the game (Pierre crops and artisan goods, Willy fish, Clint minerals and
+  ores, Marnie animal products, Robin wood and stone, Marlon monster loot, rings and boots), at the game's prices.
 - Tailoring at Emily's sewing machine and dyeing clothes; shirts and pants you wear.
 - The **movie theater** once the Community Center is restored, with the season's film.
 
@@ -600,7 +602,10 @@ subir la barra verde.
   con las misiones de la historia y los **logros**.
 - El Centro Comunitario con los 31 paquetes y sus recompensas, o la ruta Joja; el museo; las cloacas y Krobus; el
   carrito ambulante; los tachos de basura.
-- Tiendas de Pierre, Willy, Gus, Harvey, Joja, Clint, Robin, Marnie, Sandy, Marlon y los festivales.
+- Tiendas de Pierre, Willy, Gus, Harvey, Joja, Clint, Robin, Marnie, Sandy, Marlon y los festivales. Con X pasás a
+  vender: cada tienda compra lo mismo que en el juego (Pierre cultivos y productos artesanales, Willy pescado, Clint
+  minerales y menas, Marnie productos animales, Robin madera y piedra, Marlon botín de monstruos, anillos y botas), a
+  los precios del juego.
 - La costura en la máquina de Emily y el teñido de ropa; camisas y pantalones que te ponés.
 - El **cine** cuando restaurás el Centro Comunitario, con la película de la temporada.
 
