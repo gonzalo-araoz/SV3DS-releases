@@ -170,8 +170,8 @@ because the DSP is emulated.
 | D-Pad / Circle Pad | walk in 8 directions (hold B to walk slowly; can be swapped in Options) |
 | Y | use the tool, weapon or rod; plant; eat. Hold Y to charge upgraded hoes and watering cans |
 | A | action: talk, give gifts, doors, harvest, pick up, ship, sleep, counters, ladders, hook a fish |
-| L / R | pick the toolbar item (the first row of the backpack) |
-| X | go through the menu tabs |
+| L / R | pick the toolbar item (the first row of the backpack); in the menu, go through its tabs |
+| X | open the menu and go through its tabs |
 | Touch screen | tabs; in the backpack, touch two slots to swap them, a ring and then its slot to wear it |
 | SELECT | the journal (quests, special orders, achievements) |
 | START | options (quit from there) and skip events |
@@ -269,6 +269,7 @@ green bar.
 - The Community Center with all 31 bundles and their rewards, or the Joja route; the museum; the sewers and Krobus;
   the traveling cart; the trash cans.
 - Shops of Pierre, Willy, Gus, Harvey, Joja, Clint, Robin, Marnie, Sandy, Marlon and the festivals.
+- Tailoring at Emily's sewing machine and dyeing clothes; shirts and pants you wear.
 - The **movie theater** once the Community Center is restored, with the season's film.
 
 <p align="center">
@@ -284,11 +285,11 @@ green bar.
 **More**
 - Mr. Qi's casino: slots and Calico Jack, and the club's shop.
 - **Mastery** (1.6): once every skill is at level 10, Grandpa's cave in the forest and its five masteries.
-- Ginger Island by Willy's boat; crab pots; skills and professions with the game's experience curve.
+- The boat to Ginger Island (the island to walk around); crab pots; skills and professions with the game's experience curve.
 - A character creator like the PC one, the PC-style menu on the bottom screen, the PC HUD on the top one, three
   save slots.
 
-**Not there yet:** the 1.6 wallpaper and flooring sets, the statues/anvil/mini-forge/mystic trees' effects, golden animal crackers, trinkets,
+**Not there yet:** Ginger Island's walnuts, volcano and its other places, the 1.6 wallpaper and flooring sets, the statues/anvil/mini-forge/mystic trees' effects, golden animal crackers, trinkets,
 Mr. Qi's special orders and Walnut Room, the Desert Festival races and Marlon's challenges.
 
 
@@ -299,7 +300,7 @@ Optional, in Options → Cheats:
 | Cheat | What it does |
 |---|---|
 | +10,000 gold | adds 10,000 gold |
-| Restore energy and health | fills both |
+| Refill energy & health | fills both |
 | Infinite energy | tools cost no energy (until turned off) |
 | Freeze time | the clock stops (until turned off) |
 | Fast walk | 60% faster (until turned off) |
@@ -483,8 +484,8 @@ el DSP se emula.
 | Cruceta / Circle Pad | moverse en 8 direcciones (B: caminar despacio; se puede invertir en Opciones) |
 | Y | usar la herramienta, el arma o la caña; plantar; comer. Mantener Y carga la azada y la regadera mejoradas |
 | A | acción: hablar, regalar, puertas, cosechar, juntar, enviar, dormir, mostradores, escaleras, enganchar el pez |
-| L / R | elegir el objeto de la barra (la primera fila de la mochila) |
-| X | recorrer las pestañas del menú |
+| L / R | elegir el objeto de la barra (la primera fila de la mochila); en el menú, recorrer las pestañas |
+| X | abrir el menú y recorrer sus pestañas |
 | Táctil | pestañas; en la mochila, tocá dos espacios para cambiarlos, y un anillo y después su espacio para ponértelo |
 | SELECT | el diario (misiones, pedidos especiales, logros) |
 | START | opciones (desde ahí se sale) y saltear eventos |
@@ -568,7 +569,7 @@ subir la barra verde.
 - Cercas que se unen con las vecinas, portones que se abren y cierran con A, pisos y caminos que se conectan;
   cuervos y espantapájaros; escombros, árboles y rocas grandes.
 - Fabricación y máquinas de `Data/Machines`, cofres y aspersores.
-- Corral, establo, silo, cobertizo, estanque de peces, criadero de slimes, establo de caballo y sus mejoras, de
+- Corral, establo, silo, cobertizo, estanque de peces, criadero de slimes, cuadra y sus mejoras, de
   Robin; animales de Marnie que pastan, producen mejor con amistad, se ordeñan y esquilan; incubadoras.
 - **Muebles**: las más de 600 piezas del juego (sillas, mesas, sillones, alfombras, lámparas, cuadros y ventanas en
   las paredes...), que vende Robin (una selección distinta cada día) o se ganan en los festivales. Se ponen con Y, se
@@ -590,6 +591,7 @@ subir la barra verde.
 - El Centro Comunitario con los 31 paquetes y sus recompensas, o la ruta Joja; el museo; las cloacas y Krobus; el
   carrito ambulante; los tachos de basura.
 - Tiendas de Pierre, Willy, Gus, Harvey, Joja, Clint, Robin, Marnie, Sandy, Marlon y los festivales.
+- La costura en la máquina de Emily y el teñido de ropa; camisas y pantalones que te ponés.
 - El **cine** cuando restaurás el Centro Comunitario, con la película de la temporada.
 
 <p align="center">
@@ -607,28 +609,28 @@ subir la barra verde.
 - El casino del Sr. Qi: tragamonedas y Calico Jack, y la tienda del club.
 - **Maestría** (1.6): con todas las habilidades en nivel 10, la cueva del abuelo en el bosque y sus cinco
   maestrías.
-- Isla Jengibre con el bote de Willy; nasas; habilidades y profesiones con la curva de experiencia del juego.
+- El bote a la Isla Jengibre (la isla para recorrer); nasas; habilidades y profesiones con la curva de experiencia del juego.
 - Un creador de personaje como el de PC, el menú de PC en la pantalla de abajo, el HUD de PC en la de arriba, tres
   ranuras de guardado.
 
-**Todavía no:** los sets de papel tapiz y pisos de la 1.6, el efecto de las estatuas, el yunque, la mini forja, los árboles místicos, las galletas
+**Todavía no:** las nueces, el volcán y los otros lugares de la Isla Jengibre, los sets de papel tapiz y pisos de la 1.6, el efecto de las estatuas, el yunque, la mini forja, los árboles místicos, las galletas
 de animales doradas, los abalorios, los pedidos y la Sala de Nueces del Sr. Qi, las carreras y los desafíos de
 Marlon del Festival del Desierto.
 
 
 ## Trucos
 
-Opcionales, en Opciones → Cheats:
+Opcionales, en Opciones → Trucos:
 
 | Truco | Qué hace |
 |---|---|
-| +10,000 gold | suma 10.000 de oro |
-| Restore energy and health | energía y vida al máximo |
-| Infinite energy | las herramientas no gastan energía (hasta apagarlo) |
-| Freeze time | el reloj no avanza (hasta apagarlo) |
-| Fast walk | un 60% más rápido (hasta apagarlo) |
-| Grow crops here | todos los cultivos del mapa actual quedan listos para cosechar |
-| Water soil here | riega toda la tierra arada del mapa actual |
-| Resource pack | madera, piedra, fibra, madera noble, carbón y lingotes |
-| All skills +1 level | sube un nivel cada habilidad (con sus pantallas de nivel y profesiones) |
-| Max friendship | 10 corazones con todos los aldeanos |
+| +10.000 de oro | suma 10.000 de oro |
+| Llenar energía y vida | energía y vida al máximo |
+| Energía infinita | las herramientas no gastan energía (hasta apagarlo) |
+| Congelar el tiempo | el reloj no avanza (hasta apagarlo) |
+| Caminar rápido | un 60% más rápido (hasta apagarlo) |
+| Hacer crecer cultivos | todos los cultivos del mapa actual quedan listos para cosechar |
+| Regar la tierra | riega toda la tierra arada del mapa actual |
+| Paquete de recursos | madera, piedra, fibra, madera noble, carbón y lingotes |
+| Habilidades +1 nivel | sube un nivel cada habilidad (con sus pantallas de nivel y profesiones) |
+| Amistad al máximo | 10 corazones con todos los aldeanos |
