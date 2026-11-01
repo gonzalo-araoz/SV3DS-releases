@@ -85,7 +85,7 @@ If you open the app without it, it tells you what's missing. If it finds somethi
 Open **sdv3ds** from the Homebrew Launcher. The first time, it saves your console's sound firmware (see
 [Sound](#sound): nothing to do), finds your game files and asks two things:
 
-- **Language** (◀ ▶): English or Spanish (it starts with your console's language).
+- **Language** (◀ ▶): English, Spanish or Russian (it starts with your console's language).
 - **Sounds and music** (Y): include them or not. Without them the game runs silently.
 
 Press **A** to start.
@@ -207,7 +207,7 @@ green bar.
 - Tools as on PC: charging the hoe or the watering can holds it up, flashes in each level's color with the rising
   charge sound and outlines the tiles it will reach; the game's own effects for hoeing, watering, breaking stones,
   cutting weeds and harvesting.
-- Every fish has its length (in inches, or centimeters in Spanish) and its quality: bigger fish come out silver or
+- Every fish has its length (in inches, or centimeters in Spanish and Russian) and its quality: bigger fish come out silver or
   gold, and a perfect catch raises it one step (gold becomes iridium). Beating your best for a kind shows its length
   in blue.
 - Weather as on PC: the game's rain drops splashing on the ground, its snow layer, and windy days in spring and fall
@@ -287,6 +287,8 @@ green bar.
 - Monsters from `Data/Monsters` with their AI; rings, hats and boots.
 
 **More**
+- In English, Spanish or Russian, with the game's own translation. The port's own texts (menus, messages) in Russian
+  are a first translation: corrections are welcome in the issues.
 - Mr. Qi's casino: slots and Calico Jack, and the club's shop.
 - **Mastery** (1.6): once every skill is at level 10, Grandpa's cave in the forest and its five masteries.
 - The boat to Ginger Island (the island to walk around); crab pots; skills and professions with the game's experience curve.
@@ -402,7 +404,7 @@ Si abrís la app sin ella, te dice qué falta. Si encuentra algo parecido (una c
 Abrí **sdv3ds** desde el Homebrew Launcher. La primera vez guarda el firmware de sonido de tu consola (ver
 [Sonido](#sonido): no hay que hacer nada), encuentra los archivos del juego y te pregunta dos cosas:
 
-- **Idioma** (◀ ▶): inglés o español (arranca con el idioma de tu consola).
+- **Idioma** (◀ ▶): inglés, español o ruso (arranca con el idioma de tu consola).
 - **Sonidos y música** (Y): incluirlos o no. Sin ellos el juego queda sin sonido.
 
 Apretá **A** para empezar.
@@ -526,7 +528,7 @@ subir la barra verde.
 - Las herramientas como en PC: al cargar la azada o la regadera el granjero la levanta, destella con el color de cada
   nivel y el sonido de carga, y se marcan las casillas que va a alcanzar; los efectos del juego al arar, regar, romper
   piedras, cortar yuyos y cosechar.
-- Cada pez tiene su largo (en centímetros en español) y su calidad: los más grandes salen de plata o de oro, y una
+- Cada pez tiene su largo (en centímetros en español y ruso) y su calidad: los más grandes salen de plata o de oro, y una
   pesca perfecta la sube un escalón (el oro pasa a iridio). Si superás tu récord de esa especie, el largo sale en
   azul.
 - El clima como en PC: las gotas de lluvia del juego que salpican en el suelo, su capa de nieve, y días de viento en
@@ -614,6 +616,8 @@ subir la barra verde.
 - Monstruos de `Data/Monsters` con su IA; anillos, sombreros y botas.
 
 **Más**
+- En inglés, español o ruso, con la traducción del propio juego. Los textos propios del port (menús, mensajes) en
+  ruso son una primera traducción: las correcciones son bienvenidas en los issues.
 - El casino del Sr. Qi: tragamonedas y Calico Jack, y la tienda del club.
 - **Maestría** (1.6): con todas las habilidades en nivel 10, la cueva del abuelo en el bosque y sus cinco
   maestrías.
