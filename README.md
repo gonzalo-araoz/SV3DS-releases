@@ -51,6 +51,8 @@ Find where Stardew Valley is installed on your computer:
 - **Steam:** in your library, right click *Stardew Valley* → *Manage* → *Browse local files*.
 - **GOG Galaxy:** *More* → *Manage installation* → *Show folder*.
 
+It needs the game's current version, **1.6**. On Steam that's the *Default Public Version* (Properties → Betas), the one it's tested with. `legacy_1.5.6` doesn't work.
+
 Inside there's a folder called **`Content`**. On the SD card, create a folder named `sdv3ds` inside `3ds`, and copy
 the whole `Content` folder into it:
 
@@ -74,7 +76,7 @@ the folder on your computer (Windows: right click `Content` → *Send to* → *C
 right click → *Compress*) and copy the single `Content.zip` instead, to `3ds/sdv3ds/Content.zip` or the root of the
 SD card. The app reads the game's files straight from the zip; you don't unzip it.
 
-If you open the app without it, it tells you what's missing:
+If you open the app without it, it tells you what's missing. If it finds something close (a folder named a little differently, Content inside another Content, a 1.5 copy, an unfinished copy), it says what it found and where:
 
 <p align="center"><img src="docs/images/setup-missing.png" width="300" alt="The game files are missing"></p>
 
@@ -365,6 +367,8 @@ Buscá dónde está instalado Stardew Valley en tu computadora:
 - **Steam:** en la biblioteca, clic derecho en *Stardew Valley* → *Administrar* → *Ver archivos locales*.
 - **GOG Galaxy:** *Más* → *Administrar instalación* → *Mostrar carpeta*.
 
+Hace falta la versión actual del juego, la **1.6**. En Steam es la *Default Public Version* (Propiedades → Betas), la que se usa para probarlo. `legacy_1.5.6` no funciona.
+
 Adentro hay una carpeta llamada **`Content`**. En la SD, creá una carpeta llamada `sdv3ds` dentro de `3ds` y copiá
 adentro la carpeta `Content` entera:
 
@@ -387,7 +391,7 @@ Comprimí la carpeta en la computadora (Windows: clic derecho en `Content` → *
 (en zip)*; macOS: clic derecho → *Comprimir*) y copiá el único archivo `Content.zip`, a `3ds/sdv3ds/Content.zip` o
 a la raíz de la SD. La app lee los archivos del juego directamente del zip: no hace falta descomprimirlo.
 
-Si abrís la app sin ella, te dice qué falta:
+Si abrís la app sin ella, te dice qué falta. Si encuentra algo parecido (una carpeta con otro nombre, Content dentro de otro Content, una copia de la 1.5, una copia sin terminar), te dice qué encontró y dónde:
 
 <p align="center"><img src="docs/images/setup-missing.png" width="300" alt="Faltan los archivos del juego"></p>
 
