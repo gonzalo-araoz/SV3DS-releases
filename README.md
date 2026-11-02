@@ -252,7 +252,7 @@ green bar.
 
 **Farm**
 - Crops from `Data/Crops` with seasons, watering, regrowth, quality (silver, gold, iridium) by level and
-  fertilizer; fruit trees; tool upgrades up to iridium with area charging.
+  fertilizer; fruit trees, and oaks, maples and pines from their seeds; tool upgrades up to iridium with area charging.
 - Fences that join their neighbours, gates that open and close with A, floors and paths that connect; crows and
   scarecrows; debris, trees and boulders.
 - Crafting and machines from `Data/Machines`, chests and sprinklers.
@@ -296,11 +296,15 @@ green bar.
   are a first translation: corrections are welcome in the issues.
 - Mr. Qi's casino: slots and Calico Jack, and the club's shop.
 - **Mastery** (1.6): once every skill is at level 10, Grandpa's cave in the forest and its five masteries.
-- The boat to Ginger Island (the island to walk around); crab pots; skills and professions with the game's experience curve.
+- The valley's bushes, with salmonberries and blackberries in their seasons.
+- **Ginger Island**: the boat there, **golden walnuts** (walnut bushes, buried ones dug with the hoe, Leo's tree, the
+  banana shrine, fishing) and the parrots that take them: Leo's opens the island's paths, another moves the turtle to the
+  west. Crab pots; skills and professions with the game's experience curve.
 - A character creator like the PC one, the PC-style menu on the bottom screen, the PC HUD on the top one, three
   save slots.
 
-**Not there yet:** Ginger Island's walnuts, volcano and its other places, the 1.6 wallpaper and flooring sets, the statues/anvil/mini-forge/mystic trees' effects, golden animal crackers, trinkets,
+**Not there yet:** the other parrots of Ginger Island and what they build (the bridge, the farmhouse, the resort...), its other
+walnuts, the volcano and its other places, the 1.6 wallpaper and flooring sets, the statues/anvil/mini-forge/mystic trees' effects, golden animal crackers, trinkets,
 Mr. Qi's special orders and Walnut Room, the Desert Festival races and Marlon's challenges.
 
 
@@ -583,7 +587,7 @@ subir la barra verde.
 
 **Granja**
 - Cultivos de `Data/Crops` con estaciones, riego, rebrote y calidad (plata, oro, iridio) según nivel y abono;
-  árboles frutales; mejoras de herramientas hasta iridio con carga de área.
+  árboles frutales, y robles, arces y pinos de sus semillas; mejoras de herramientas hasta iridio con carga de área.
 - Cercas que se unen con las vecinas, portones que se abren y cierran con A, pisos y caminos que se conectan;
   cuervos y espantapájaros; escombros, árboles y rocas grandes.
 - Fabricación y máquinas de `Data/Machines`, cofres y aspersores.
@@ -632,11 +636,15 @@ subir la barra verde.
 - El casino del Sr. Qi: tragamonedas y Calico Jack, y la tienda del club.
 - **Maestría** (1.6): con todas las habilidades en nivel 10, la cueva del abuelo en el bosque y sus cinco
   maestrías.
-- El bote a la Isla Jengibre (la isla para recorrer); nasas; habilidades y profesiones con la curva de experiencia del juego.
+- Los arbustos del valle, con moras y zarzamoras en su temporada.
+- **Isla Jengibre**: el bote, las **nueces doradas** (arbustos de nueces, las enterradas que se sacan con la azada, el
+  árbol de Leo, el santuario de la banana, la pesca) y los loros que las piden: el de Leo abre los caminos de la isla,
+  otro corre la tortuga del oeste. Nasas; habilidades y profesiones con la curva de experiencia del juego.
 - Un creador de personaje como el de PC, el menú de PC en la pantalla de abajo, el HUD de PC en la de arriba, tres
   ranuras de guardado.
 
-**Todavía no:** las nueces, el volcán y los otros lugares de la Isla Jengibre, los sets de papel tapiz y pisos de la 1.6, el efecto de las estatuas, el yunque, la mini forja, los árboles místicos, las galletas
+**Todavía no:** los demás loros de la Isla Jengibre y lo que construyen (el puente, la casa, el centro
+turístico...), el resto de sus nueces, el volcán y sus otros lugares, los sets de papel tapiz y pisos de la 1.6, el efecto de las estatuas, el yunque, la mini forja, los árboles místicos, las galletas
 de animales doradas, los abalorios, los pedidos y la Sala de Nueces del Sr. Qi, las carreras y los desafíos de
 Marlon del Festival del Desierto.
 
