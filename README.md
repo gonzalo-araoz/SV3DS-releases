@@ -176,7 +176,7 @@ because the DSP is emulated.
 | Y | use the tool, weapon or rod; plant; eat. Hold Y to charge upgraded hoes and watering cans |
 | A | action: talk, give gifts, doors, harvest, pick up, ship, sleep, counters, ladders, hook a fish |
 | L / R | pick the toolbar item (the first row of the backpack); in the menu, go through its tabs |
-| X | open the menu and go through its tabs |
+| X | open the menu and go through its tabs; in the mines with a weapon, its special move (sword: block, dagger: quick stabs, club: slam) |
 | Touch screen | tabs; in the backpack, touch two slots to swap them, a ring and then its slot to wear it; an item and then the trash can (right of the tabs) to throw it away, or your portrait to drop it on the ground |
 | SELECT | the journal (quests, special orders, achievements) |
 | START | options (quit from there) and skip events |
@@ -505,7 +505,7 @@ el DSP se emula.
 | Y | usar la herramienta, el arma o la caña; plantar; comer. Mantener Y carga la azada y la regadera mejoradas |
 | A | acción: hablar, regalar, puertas, cosechar, juntar, enviar, dormir, mostradores, escaleras, enganchar el pez |
 | L / R | elegir el objeto de la barra (la primera fila de la mochila); en el menú, recorrer las pestañas |
-| X | abrir el menú y recorrer sus pestañas |
+| X | abrir el menú y recorrer sus pestañas; en la mina con un arma, su ataque especial (espada: bloquear, daga: estocadas rápidas, maza: golpe en el suelo) |
 | Táctil | pestañas; en la mochila, tocá dos espacios para cambiarlos, y un anillo y después su espacio para ponértelo; un objeto y después el tacho (a la derecha de las pestañas) para tirarlo, o tu retrato para soltarlo en el suelo |
 | SELECT | el diario (misiones, pedidos especiales, logros) |
 | START | opciones (desde ahí se sale) y saltear eventos |
