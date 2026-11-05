@@ -170,19 +170,25 @@ because the DSP is emulated.
 
 ## Controls
 
+<p align="center"><img src="docs/images/controls-en.png" width="512" alt="The 3DS controls"></p>
+<p align="center"><i>Controls map by <a href="https://github.com/CrisPH7">CrisPH7</a> — thank you!</i></p>
+
 | Button | What it does |
 |---|---|
 | D-Pad / Circle Pad | walk in 8 directions (hold B to walk slowly; can be swapped in Options) |
 | Y | use the tool, weapon or rod; plant; eat. Hold Y to charge upgraded hoes and watering cans |
-| A | action: talk, give gifts, doors, harvest, pick up, ship, sleep, counters, ladders, hook a fish |
+| A | action: talk, give gifts, doors, harvest, pick up, ship, sleep, counters, ladders, hook a fish. Hold A to keep harvesting or sowing along a row |
 | L / R | pick the toolbar item (the first row of the backpack); in the menu, go through its tabs |
-| X | open the menu and go through its tabs; in the mines with a weapon, its special move (sword: block, dagger: quick stabs, club: slam) |
-| Touch screen | tabs; in the backpack, touch two slots to swap them, a ring and then its slot to wear it; an item and then the trash can (right of the tabs) to throw it away, or your portrait to drop it on the ground |
+| ZL / ZR (New 3DS) | shift the toolbar to the backpack's next row |
+| X | open the crafting menu, then go through its tabs; in the mines with a weapon, its special move (sword: block, dagger: quick stabs, club: slam) |
+| Touch screen | tabs; in the backpack, touch two slots to swap them (hold Y when you touch where it goes to put down just one, X for half), a ring and then its slot to wear it; an item and then the trash can (right of the tabs) to throw it away, or your portrait to drop it on the ground |
 | SELECT | the journal (quests, special orders, achievements) |
 | START | options (quit from there) and skip events |
 
-**Fishing:** press Y facing water to cast, A when the "!" shows up, then hold A (or touch the screen) to raise the
-green bar.
+**Fishing:** hold Y facing water to charge the cast and let go, A when the "!" shows up, then hold Y (or A, or touch
+the screen) to raise the green bar.
+
+**Battery:** Options → Frame rate → 30 uses less battery.
 
 <p align="center">
   <img src="docs/images/play-fish.png" width="260" alt="Fishing at the beach">
@@ -499,19 +505,25 @@ el DSP se emula.
 
 ## Controles
 
+<p align="center"><img src="docs/images/controls-es.png" width="512" alt="Los controles en la 3DS"></p>
+<p align="center"><i>Mapa de controles hecho por <a href="https://github.com/CrisPH7">CrisPH7</a> — ¡gracias!</i></p>
+
 | Botón | Qué hace |
 |---|---|
 | Cruceta / Circle Pad | moverse en 8 direcciones (B: caminar despacio; se puede invertir en Opciones) |
 | Y | usar la herramienta, el arma o la caña; plantar; comer. Mantener Y carga la azada y la regadera mejoradas |
-| A | acción: hablar, regalar, puertas, cosechar, juntar, enviar, dormir, mostradores, escaleras, enganchar el pez |
+| A | acción: hablar, regalar, puertas, cosechar, juntar, enviar, dormir, mostradores, escaleras, enganchar el pez. Mantén A para seguir cosechando o sembrando a lo largo de la fila |
 | L / R | elegir el objeto de la barra (la primera fila de la mochila); en el menú, recorrer las pestañas |
-| X | abrir el menú y recorrer sus pestañas; en la mina con un arma, su ataque especial (espada: bloquear, daga: estocadas rápidas, maza: golpe en el suelo) |
-| Táctil | pestañas; en la mochila, tocá dos espacios para cambiarlos, y un anillo y después su espacio para ponértelo; un objeto y después el tacho (a la derecha de las pestañas) para tirarlo, o tu retrato para soltarlo en el suelo |
+| ZL / ZR (New 3DS) | pasar la barra a la fila siguiente de la mochila |
+| X | abrir la fabricación y después recorrer las pestañas; en la mina con un arma, su ataque especial (espada: bloquear, daga: estocadas rápidas, maza: golpe en el suelo) |
+| Táctil | pestañas; en la mochila, toca dos espacios para cambiarlos (mantén Y al tocar dónde va para dejar uno solo, X para la mitad), y un anillo y después su espacio para ponértelo; un objeto y después el tacho (a la derecha de las pestañas) para tirarlo, o tu retrato para soltarlo en el suelo |
 | SELECT | el diario (misiones, pedidos especiales, logros) |
 | START | opciones (desde ahí se sale) y saltear eventos |
 
-**Pesca:** Y mirando el agua para lanzar, A cuando aparece el "!", y después mantené A (o tocá la pantalla) para
-subir la barra verde.
+**Pesca:** mantén Y mirando el agua para cargar el lanzamiento y suéltalo, A cuando aparece el "!", y después mantén
+Y (o A, o toca la pantalla) para subir la barra verde.
+
+**Batería:** Opciones → Cuadros por segundo → 30 gasta menos batería.
 
 <p align="center">
   <img src="docs/images/play-fish.png" width="260" alt="Pescando en la playa">
