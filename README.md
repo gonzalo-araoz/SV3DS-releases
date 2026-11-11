@@ -1,10 +1,10 @@
 # SV3DS — Stardew Valley for the Nintendo 3DS
 
-An unofficial reimplementation of **Stardew Valley** for the (New) Nintendo 3DS. This repository has its releases (`sdv3ds.3dsx` and `sdv3ds.cia`) and the guide; the game checks it for updates.
+An unofficial reimplementation of **Stardew Valley** for the Nintendo 3DS family (New 3DS and the original 3DS and 2DS). This repository has its releases (`sdv3ds.3dsx` and `sdv3ds.cia`) and the guide; the game checks it for updates.
 
 **No Stardew Valley files are here, and none are included in the releases.** You need your own copy of the game (PC: Steam, GOG...): the console converts the files you copy from it. Stardew Valley is © ConcernedApe; this project isn't affiliated with or endorsed by ConcernedApe.
 
-**It's a beta.** It's played and tested on a New 3DS; it hasn't been tried on an original 3DS or 2DS yet (reports welcome). Found a problem? [Open an issue](https://github.com/gonzalo-araoz/SV3DS-releases/issues) saying what happened and, if you can, with a photo of the screen.
+**It's a beta.** It's played and tested on a New 3DS, and players run it on the original 3DS and 2DS too (it can be slower there). Found a problem? [Open an issue](https://github.com/gonzalo-araoz/SV3DS-releases/issues) saying what happened and, if you can, with a photo of the screen.
 
 **Download:** [latest release](https://github.com/gonzalo-araoz/SV3DS-releases/releases/latest) · *[Guía en español](#sv3ds--stardew-valley-para-nintendo-3ds)*
 
@@ -335,11 +335,11 @@ Optional, in Options → Cheats:
 
 # SV3DS — Stardew Valley para Nintendo 3DS
 
-Una reimplementación no oficial de **Stardew Valley** para (New) Nintendo 3DS. Este repositorio tiene sus versiones (`sdv3ds.3dsx` y `sdv3ds.cia`) y la guía; el juego lo consulta para actualizarse.
+Una reimplementación no oficial de **Stardew Valley** para la familia Nintendo 3DS (New 3DS y las 3DS y 2DS originales). Este repositorio tiene sus versiones (`sdv3ds.3dsx` y `sdv3ds.cia`) y la guía; el juego lo consulta para actualizarse.
 
 **Acá no hay archivos de Stardew Valley, y las versiones no traen ninguno.** Necesitás tu propia copia del juego (PC: Steam, GOG...): la consola convierte los archivos que copiás de ella. Stardew Valley es © ConcernedApe; este proyecto no está afiliado ni respaldado por ConcernedApe.
 
-**Es una beta.** Se juega y se prueba en una New 3DS; todavía no se probó en una 3DS o 2DS original (se agradecen reportes). ¿Encontraste un problema? [Abrí un issue](https://github.com/gonzalo-araoz/SV3DS-releases/issues) contando qué pasó y, si podés, con una foto de la pantalla.
+**Es una beta.** Se juega y se prueba en una New 3DS, y los jugadores también la usan en las 3DS y 2DS originales (ahí puede ir más lenta). ¿Encontraste un problema? [Abrí un issue](https://github.com/gonzalo-araoz/SV3DS-releases/issues) contando qué pasó y, si podés, con una foto de la pantalla.
 
 **Descarga:** [última versión](https://github.com/gonzalo-araoz/SV3DS-releases/releases/latest)
 
