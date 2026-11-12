@@ -331,6 +331,10 @@ Optional, in Options → Cheats:
 | All skills +1 level | one level up in every skill (with the level-up and profession screens) |
 | Max friendship | 10 hearts with every villager |
 
+## Support
+
+If you'd like to support the time I put into this: [PayPal](https://paypal.me/gonzaaraoz). It doesn't unlock anything; the port is and stays free.
+
 ---
 
 # SV3DS — Stardew Valley para Nintendo 3DS
@@ -677,3 +681,7 @@ Opcionales, en Opciones → Trucos:
 | Paquete de recursos | madera, piedra, fibra, madera noble, carbón y lingotes |
 | Habilidades +1 nivel | sube un nivel cada habilidad (con sus pantallas de nivel y profesiones) |
 | Amistad al máximo | 10 corazones con todos los aldeanos |
+
+## Apoyo
+
+Si querés apoyar el tiempo que le dedico: [PayPal](https://paypal.me/gonzaaraoz). No desbloquea nada; el port es y sigue siendo gratis.
