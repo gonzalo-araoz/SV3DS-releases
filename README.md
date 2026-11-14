@@ -27,6 +27,7 @@ An unofficial reimplementation of **Stardew Valley** for the Nintendo 3DS family
 - [Controls](#controls)
 - [What's in it](#whats-in-it)
 - [Cheats](#cheats)
+- [Mods (experimental)](#mods-experimental)
 
 ## Installing (the console converts the game)
 
@@ -331,6 +332,20 @@ Optional, in Options → Cheats:
 | All skills +1 level | one level up in every skill (with the level-up and profession screens) |
 | Max friendship | 10 hearts with every villager |
 
+
+## Mods (experimental)
+
+Texture mods can work, but this isn't supported and may break: the converter reads the images in your `Content` folder,
+so if you replace some of them with a mod's images before converting, the game uses them. Mods that add code, items,
+maps or events (SMAPI, Content Patcher) don't work: the port is its own code.
+
+- Keep a copy of the original `Content` folder first.
+- Only replace images that already exist, with the same name and the exact same size in pixels; extra files are ignored.
+- Don't replace maps, events, schedules or data files.
+- Then convert again (delete `sdmc:/3ds/sdv3ds/data/version.txt`, open the app and convert).
+
+If something looks wrong or the game crashes, go back to the original files before reporting a bug.
+
 ---
 
 # SV3DS — Stardew Valley para Nintendo 3DS
@@ -362,6 +377,7 @@ Una reimplementación no oficial de **Stardew Valley** para la familia Nintendo 
 - [Controles](#controles)
 - [Qué tiene](#qué-tiene)
 - [Trucos](#trucos)
+- [Mods (experimentales)](#mods-experimentales)
 
 ## Instalación (la consola convierte el juego)
 
@@ -677,3 +693,17 @@ Opcionales, en Opciones → Trucos:
 | Paquete de recursos | madera, piedra, fibra, madera noble, carbón y lingotes |
 | Habilidades +1 nivel | sube un nivel cada habilidad (con sus pantallas de nivel y profesiones) |
 | Amistad al máximo | 10 corazones con todos los aldeanos |
+
+
+## Mods (experimentales)
+
+Los mods de texturas pueden funcionar, pero no tienen soporte y pueden fallar: el conversor lee las imágenes de tu carpeta
+`Content`, así que si reemplazás algunas por las de un mod antes de convertir, el juego las usa. Los mods que agregan
+código, objetos, mapas o eventos (SMAPI, Content Patcher) no funcionan: el port tiene su propio código.
+
+- Primero guardá una copia de la carpeta `Content` original.
+- Reemplazá solo imágenes que ya existen, con el mismo nombre y exactamente el mismo tamaño en píxeles; los archivos de más se ignoran.
+- No reemplaces mapas, eventos, horarios ni archivos de datos.
+- Después convertí de nuevo (borrá `sdmc:/3ds/sdv3ds/data/version.txt`, abrí la app y convertí).
+
+Si algo se ve mal o el juego se cierra, volvé a los archivos originales antes de reportar un bug.
