@@ -8,16 +8,6 @@ An unofficial reimplementation of **Stardew Valley** for the Nintendo 3DS family
 
 **Download:** [latest release](https://github.com/gonzalo-araoz/SV3DS-releases/releases/latest) · *[Guía en español](#sv3ds--stardew-valley-para-nintendo-3ds)* · [Support the time put into it](#support)
 
-<p align="center">
-  <img src="docs/images/play-npc.png" width="260" alt="Talking to a villager">
-  <img src="docs/images/play-festival.png" width="260" alt="The Egg Festival">
-  <img src="docs/images/play-fest16.png" width="260" alt="The Night Market">
-</p>
-
-**Install it from the console, without taking out the SD card:** in FBI, *Remote Install* → *Scan QR Code*, and point the camera at this code (always the latest `.cia`). Or *Manually Enter URLs* with `https://github.com/gonzalo-araoz/SV3DS-releases/releases/latest/download/sdv3ds.cia`. You still copy your game's `Content` folder to the SD card once (step 2 of [Installing](#installing-the-console-converts-the-game)).
-
-<img src="qr.png" width="200" alt="QR code">
-
 ### Contents
 
 - [Installing (the console converts the game)](#installing-the-console-converts-the-game)
@@ -30,6 +20,16 @@ An unofficial reimplementation of **Stardew Valley** for the Nintendo 3DS family
 - [Mods (experimental)](#mods-experimental)
 - [Credits](#credits)
 - [Support](#support)
+
+<p align="center">
+  <img src="docs/images/play-npc.png" width="260" alt="Talking to a villager">
+  <img src="docs/images/play-festival.png" width="260" alt="The Egg Festival">
+  <img src="docs/images/play-fest16.png" width="260" alt="The Night Market">
+</p>
+
+**Install it from the console, without taking out the SD card:** in FBI, *Remote Install* → *Scan QR Code*, and point the camera at this code (always the latest `.cia`). Or *Manually Enter URLs* with `https://github.com/gonzalo-araoz/SV3DS-releases/releases/latest/download/sdv3ds.cia`. You still copy your game's `Content` folder to the SD card once (step 2 of [Installing](#installing-the-console-converts-the-game)).
+
+<img src="qr.png" width="200" alt="QR code">
 
 ## Installing (the console converts the game)
 
@@ -372,16 +372,6 @@ Una reimplementación no oficial de **Stardew Valley** para la familia Nintendo 
 
 **Descarga:** [última versión](https://github.com/gonzalo-araoz/SV3DS-releases/releases/latest) · [Apoyar el tiempo que lleva](#apoyo)
 
-<p align="center">
-  <img src="docs/images/play-npc.png" width="260" alt="Hablando con un vecino">
-  <img src="docs/images/play-festival.png" width="260" alt="El Festival del Huevo">
-  <img src="docs/images/play-fest16.png" width="260" alt="El Mercado Nocturno">
-</p>
-
-**Instalalo desde la consola, sin sacar la SD:** en FBI, *Remote Install* → *Scan QR Code*, y apuntá la cámara a este código (siempre el `.cia` más nuevo). O *Manually Enter URLs* con `https://github.com/gonzalo-araoz/SV3DS-releases/releases/latest/download/sdv3ds.cia`. Igual tenés que copiar una vez la carpeta `Content` del juego a la SD (paso 2 de [Instalación](#instalación-la-consola-convierte-el-juego)).
-
-<img src="qr.png" width="200" alt="Código QR">
-
 ### Contenido
 
 - [Instalación (la consola convierte el juego)](#instalación-la-consola-convierte-el-juego)
@@ -394,6 +384,16 @@ Una reimplementación no oficial de **Stardew Valley** para la familia Nintendo 
 - [Mods (experimentales)](#mods-experimentales)
 - [Créditos](#créditos)
 - [Apoyo](#apoyo)
+
+<p align="center">
+  <img src="docs/images/play-npc.png" width="260" alt="Hablando con un vecino">
+  <img src="docs/images/play-festival.png" width="260" alt="El Festival del Huevo">
+  <img src="docs/images/play-fest16.png" width="260" alt="El Mercado Nocturno">
+</p>
+
+**Instalalo desde la consola, sin sacar la SD:** en FBI, *Remote Install* → *Scan QR Code*, y apuntá la cámara a este código (siempre el `.cia` más nuevo). O *Manually Enter URLs* con `https://github.com/gonzalo-araoz/SV3DS-releases/releases/latest/download/sdv3ds.cia`. Igual tenés que copiar una vez la carpeta `Content` del juego a la SD (paso 2 de [Instalación](#instalación-la-consola-convierte-el-juego)).
+
+<img src="qr.png" width="200" alt="Código QR">
 
 ## Instalación (la consola convierte el juego)
 
