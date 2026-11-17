@@ -86,7 +86,7 @@ If you open the app without it, it tells you what's missing. If it finds somethi
 Open **sdv3ds** from the Homebrew Launcher. The first time, it saves your console's sound firmware (see
 [Sound](#sound): nothing to do), finds your game files and asks two things:
 
-- **Language** (◀ ▶): English, Spanish or Russian (it starts with your console's language).
+- **Language** (◀ ▶): English, Spanish, Russian, Portuguese, Chinese, Italian or French (it starts with your console's language).
 - **Sounds and music** (Y): include them or not. Without them the game runs silently.
 
 Press **A** to start.
@@ -435,7 +435,7 @@ Si abrís la app sin ella, te dice qué falta. Si encuentra algo parecido (una c
 Abrí **sdv3ds** desde el Homebrew Launcher. La primera vez guarda el firmware de sonido de tu consola (ver
 [Sonido](#sonido): no hay que hacer nada), encuentra los archivos del juego y te pregunta dos cosas:
 
-- **Idioma** (◀ ▶): inglés, español o ruso (arranca con el idioma de tu consola).
+- **Idioma** (◀ ▶): inglés, español, ruso, portugués, chino, italiano o francés (arranca con el idioma de tu consola).
 - **Sonidos y música** (Y): incluirlos o no. Sin ellos el juego queda sin sonido.
 
 Apretá **A** para empezar.
