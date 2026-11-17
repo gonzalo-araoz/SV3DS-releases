@@ -6,7 +6,7 @@ An unofficial reimplementation of **Stardew Valley** for the Nintendo 3DS family
 
 **It's a beta.** It's played and tested on a New 3DS, and players run it on the original 3DS and 2DS too (it can be slower there). Found a problem? [Open an issue](https://github.com/gonzalo-araoz/SV3DS-releases/issues) saying what happened and, if you can, with a photo of the screen.
 
-**Download:** [latest release](https://github.com/gonzalo-araoz/SV3DS-releases/releases/latest) · *[Guía en español](#sv3ds--stardew-valley-para-nintendo-3ds)*
+**Download:** [latest release](https://github.com/gonzalo-araoz/SV3DS-releases/releases/latest) · *[Guía en español](#sv3ds--stardew-valley-para-nintendo-3ds)* · [Support the time put into it](#support)
 
 <p align="center">
   <img src="docs/images/play-npc.png" width="260" alt="Talking to a villager">
@@ -28,6 +28,8 @@ An unofficial reimplementation of **Stardew Valley** for the Nintendo 3DS family
 - [What's in it](#whats-in-it)
 - [Cheats](#cheats)
 - [Mods (experimental)](#mods-experimental)
+- [Credits](#credits)
+- [Support](#support)
 
 ## Installing (the console converts the game)
 
@@ -346,6 +348,18 @@ maps or events (SMAPI, Content Patcher) don't work: the port is its own code.
 
 If something looks wrong or the game crashes, go back to the original files before reporting a bug.
 
+
+## Credits
+
+- [CrisPH7](https://github.com/CrisPH7): the controls map in this guide, and many bug reports.
+- [jsj9605222-ux](https://github.com/jsj9605222-ux): the Korean translation (coming in the next version).
+- Everyone who opens issues and tests the betas.
+
+
+## Support
+
+SV3DS is free and always will be. I make and maintain it in my free time; if you'd like to support that time, you can do it here: **[PayPal](https://paypal.me/gonzaaraoz)**. It doesn't unlock anything: every version is for everyone. And if you enjoy it, please buy Stardew Valley, it's ConcernedApe's work.
+
 ---
 
 # SV3DS — Stardew Valley para Nintendo 3DS
@@ -356,7 +370,7 @@ Una reimplementación no oficial de **Stardew Valley** para la familia Nintendo 
 
 **Es una beta.** Se juega y se prueba en una New 3DS, y los jugadores también la usan en las 3DS y 2DS originales (ahí puede ir más lenta). ¿Encontraste un problema? [Abrí un issue](https://github.com/gonzalo-araoz/SV3DS-releases/issues) contando qué pasó y, si podés, con una foto de la pantalla.
 
-**Descarga:** [última versión](https://github.com/gonzalo-araoz/SV3DS-releases/releases/latest)
+**Descarga:** [última versión](https://github.com/gonzalo-araoz/SV3DS-releases/releases/latest) · [Apoyar el tiempo que lleva](#apoyo)
 
 <p align="center">
   <img src="docs/images/play-npc.png" width="260" alt="Hablando con un vecino">
@@ -378,6 +392,8 @@ Una reimplementación no oficial de **Stardew Valley** para la familia Nintendo 
 - [Qué tiene](#qué-tiene)
 - [Trucos](#trucos)
 - [Mods (experimentales)](#mods-experimentales)
+- [Créditos](#créditos)
+- [Apoyo](#apoyo)
 
 ## Instalación (la consola convierte el juego)
 
@@ -707,3 +723,15 @@ código, objetos, mapas o eventos (SMAPI, Content Patcher) no funcionan: el port
 - Después convertí de nuevo (borrá `sdmc:/3ds/sdv3ds/data/version.txt`, abrí la app y convertí).
 
 Si algo se ve mal o el juego se cierra, volvé a los archivos originales antes de reportar un bug.
+
+
+## Créditos
+
+- [CrisPH7](https://github.com/CrisPH7): el mapa de controles de esta guía, y muchos reportes de bugs.
+- [jsj9605222-ux](https://github.com/jsj9605222-ux): la traducción al coreano (llega en la próxima versión).
+- Todos los que abren issues y prueban las betas.
+
+
+## Apoyo
+
+SV3DS es gratis y lo va a seguir siendo. Lo hago y lo mantengo en mi tiempo libre; si querés apoyar ese tiempo, podés hacerlo acá: **[PayPal](https://paypal.me/gonzaaraoz)**. No desbloquea nada: todas las versiones son para todos. Y si te gusta, comprá Stardew Valley, es obra de ConcernedApe.
