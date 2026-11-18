@@ -22,6 +22,7 @@ An unofficial reimplementation of **Stardew Valley** for the Nintendo 3DS family
 - [Mods (experimental)](#mods-experimental)
 - [Credits](#credits)
 - [Support](#support)
+- **[FAQ](FAQ.md)**
 
 <p align="center">
   <img src="docs/images/play-npc.png" width="260" alt="Talking to a villager">
@@ -388,6 +389,7 @@ Una reimplementación no oficial de **Stardew Valley** para la familia Nintendo 
 - [Mods (experimentales)](#mods-experimentales)
 - [Créditos](#créditos)
 - [Apoyo](#apoyo)
+- **[Preguntas frecuentes](FAQ.md#sv3ds--preguntas-frecuentes)**
 
 <p align="center">
   <img src="docs/images/play-npc.png" width="260" alt="Hablando con un vecino">
