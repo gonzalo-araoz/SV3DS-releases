@@ -88,7 +88,7 @@ If you open the app without it, it tells you what's missing. If it finds somethi
 Open **sdv3ds** from the Homebrew Launcher. The first time, it saves your console's sound firmware (see
 [Sound](#sound): nothing to do), finds your game files and asks two things:
 
-- **Language** (◀ ▶): English, Spanish or Russian (it starts with your console's language).
+- **Language** (◀ ▶): English, Spanish, Russian, Brazilian Portuguese, Simplified Chinese, Italian, French, Korean or Japanese (it starts with your console's language).
 - **Sounds and music** (Y): include them or not. Without them the game runs silently.
 
 Press **A** to start.
@@ -180,10 +180,10 @@ because the DSP is emulated.
 |---|---|
 | D-Pad / Circle Pad | walk in 8 directions (hold B to walk slowly; can be swapped in Options) |
 | Y | use the tool, weapon or rod; plant; eat. Hold Y to charge upgraded hoes and watering cans |
-| A | action: talk, give gifts, doors, harvest, pick up, ship, sleep, counters, ladders, hook a fish. Hold A to keep harvesting or sowing along a row |
+| A | action: talk, give gifts, doors, harvest, pick up, ship, sleep, counters, ladders, hook a fish. Hold A to keep harvesting or sowing along a row. With a weapon and nothing in front, its special move (sword: block, dagger: quick stabs, club: slam), as the original's |
 | L / R | pick the toolbar item (the first row of the backpack); in the menu, go through its tabs |
 | ZL / ZR (New 3DS) | shift the toolbar to the backpack's next row |
-| X | open the crafting menu, then go through its tabs; in the mines with a weapon, its special move (sword: block, dagger: quick stabs, club: slam) |
+| X | open the crafting menu, then go through its tabs |
 | Touch screen | tabs; in the backpack, touch two slots to swap them (hold Y when you touch where it goes to put down just one, X for half), a ring and then its slot to wear it; an item and then the trash can (right of the tabs) to throw it away, or your portrait to drop it on the ground |
 | SELECT | the journal (quests, special orders, achievements) |
 | START | options (quit from there) and skip events |
@@ -352,13 +352,13 @@ If something looks wrong or the game crashes, go back to the original files befo
 ## Credits
 
 - [CrisPH7](https://github.com/CrisPH7): the controls map in this guide, and many bug reports.
-- [jsj9605222-ux](https://github.com/jsj9605222-ux): the Korean translation (coming in the next version).
+- [jsj9605222-ux](https://github.com/jsj9605222-ux): the Korean translation.
 - Everyone who opens issues and tests the betas.
 
 
 ## Support
 
-SV3DS is free and always will be. I make and maintain it in my free time; if you'd like to support that time, you can do it here: **[PayPal](https://paypal.me/gonzaaraoz)**. It doesn't unlock anything: every version is for everyone. And if you enjoy it, please buy Stardew Valley, it's ConcernedApe's work.
+SV3DS is free and always will be. I make and maintain it in my free time; if you'd like to support that time, you can do it here: **[Ko-fi](https://ko-fi.com/gonzaatt)** (one click, no account needed) or **[PayPal](https://paypal.me/gonzaaraoz)**. It doesn't unlock anything: every version is for everyone. And if you enjoy it, please buy Stardew Valley, it's ConcernedApe's work.
 
 ---
 
@@ -451,7 +451,7 @@ Si abrís la app sin ella, te dice qué falta. Si encuentra algo parecido (una c
 Abrí **sdv3ds** desde el Homebrew Launcher. La primera vez guarda el firmware de sonido de tu consola (ver
 [Sonido](#sonido): no hay que hacer nada), encuentra los archivos del juego y te pregunta dos cosas:
 
-- **Idioma** (◀ ▶): inglés, español o ruso (arranca con el idioma de tu consola).
+- **Idioma** (◀ ▶): inglés, español, ruso, portugués de Brasil, chino simplificado, italiano, francés, coreano o japonés (arranca con el idioma de tu consola).
 - **Sonidos y música** (Y): incluirlos o no. Sin ellos el juego queda sin sonido.
 
 Apretá **A** para empezar.
@@ -544,10 +544,10 @@ el DSP se emula.
 |---|---|
 | Cruceta / Circle Pad | moverse en 8 direcciones (B: caminar despacio; se puede invertir en Opciones) |
 | Y | usar la herramienta, el arma o la caña; plantar; comer. Mantener Y carga la azada y la regadera mejoradas |
-| A | acción: hablar, regalar, puertas, cosechar, juntar, enviar, dormir, mostradores, escaleras, enganchar el pez. Mantén A para seguir cosechando o sembrando a lo largo de la fila |
+| A | acción: hablar, regalar, puertas, cosechar, juntar, enviar, dormir, mostradores, escaleras, enganchar el pez. Mantén A para seguir cosechando o sembrando a lo largo de la fila. Con un arma y nada enfrente, su ataque especial (espada: bloquear, daga: estocadas rápidas, maza: golpe en el suelo), como en el original |
 | L / R | elegir el objeto de la barra (la primera fila de la mochila); en el menú, recorrer las pestañas |
 | ZL / ZR (New 3DS) | pasar la barra a la fila siguiente de la mochila |
-| X | abrir la fabricación y después recorrer las pestañas; en la mina con un arma, su ataque especial (espada: bloquear, daga: estocadas rápidas, maza: golpe en el suelo) |
+| X | abrir la fabricación y después recorrer las pestañas |
 | Táctil | pestañas; en la mochila, toca dos espacios para cambiarlos (mantén Y al tocar dónde va para dejar uno solo, X para la mitad), y un anillo y después su espacio para ponértelo; un objeto y después el tacho (a la derecha de las pestañas) para tirarlo, o tu retrato para soltarlo en el suelo |
 | SELECT | el diario (misiones, pedidos especiales, logros) |
 | START | opciones (desde ahí se sale) y saltear eventos |
@@ -728,10 +728,10 @@ Si algo se ve mal o el juego se cierra, volvé a los archivos originales antes d
 ## Créditos
 
 - [CrisPH7](https://github.com/CrisPH7): el mapa de controles de esta guía, y muchos reportes de bugs.
-- [jsj9605222-ux](https://github.com/jsj9605222-ux): la traducción al coreano (llega en la próxima versión).
+- [jsj9605222-ux](https://github.com/jsj9605222-ux): la traducción al coreano.
 - Todos los que abren issues y prueban las betas.
 
 
 ## Apoyo
 
-SV3DS es gratis y lo va a seguir siendo. Lo hago y lo mantengo en mi tiempo libre; si querés apoyar ese tiempo, podés hacerlo acá: **[PayPal](https://paypal.me/gonzaaraoz)**. No desbloquea nada: todas las versiones son para todos. Y si te gusta, comprá Stardew Valley, es obra de ConcernedApe.
+SV3DS es gratis y lo va a seguir siendo. Lo hago y lo mantengo en mi tiempo libre; si querés apoyar ese tiempo, podés hacerlo acá: **[Ko-fi](https://ko-fi.com/gonzaatt)** (un clic, sin crear cuenta) o **[PayPal](https://paypal.me/gonzaaraoz)**. No desbloquea nada: todas las versiones son para todos. Y si te gusta, comprá Stardew Valley, es obra de ConcernedApe.
