@@ -191,8 +191,10 @@ because the DSP is emulated.
 | SELECT | the journal (quests, special orders, achievements) |
 | START | options (quit from there) and skip events |
 
-**Fishing:** hold Y facing water to charge the cast and let go, A when the "!" shows up, then hold Y (or A, or touch
-the screen) to raise the green bar.
+**Fishing:** hold Y facing water to charge the cast and let go (while the bobber flies, the D-pad moves it to the side),
+A when the "!" shows up, then hold Y (or A, or touch the screen) to raise the green bar.
+
+**Buttons:** Options → Controls → Buttons swaps A and B, X and Y, or both, for the whole game.
 
 **Battery:** Options → Frame rate → 30 uses less battery.
 
@@ -558,8 +560,10 @@ el DSP se emula.
 | SELECT | el diario (misiones, pedidos especiales, logros) |
 | START | opciones (desde ahí se sale) y saltear eventos |
 
-**Pesca:** mantén Y mirando el agua para cargar el lanzamiento y suéltalo, A cuando aparece el "!", y después mantén
-Y (o A, o toca la pantalla) para subir la barra verde.
+**Pesca:** mantén Y mirando el agua para cargar el lanzamiento y suéltalo (mientras el anzuelo vuela, la cruceta lo corre
+a un costado), A cuando aparece el "!", y después mantén Y (o A, o toca la pantalla) para subir la barra verde.
+
+**Botones:** Opciones → Controles → Botones intercambia A y B, X e Y, o los dos, en todo el juego.
 
 **Batería:** Opciones → Cuadros por segundo → 30 gasta menos batería.
 
