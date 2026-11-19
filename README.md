@@ -187,7 +187,7 @@ because the DSP is emulated.
 | L / R | pick the toolbar item (the first row of the backpack); in the menu, go through its tabs |
 | ZL / ZR (New 3DS) | shift the toolbar to the backpack's next row |
 | X | open the crafting menu, then go through its tabs |
-| Touch screen | tabs; in the backpack, touch two slots to swap them (hold Y when you touch where it goes to put down just one, X for half), a ring and then its slot to wear it; an item and then the trash can (right of the tabs) to throw it away, or your portrait to drop it on the ground |
+| Touch screen | tabs; in the backpack, touch two slots to swap them (hold Y when you touch where it goes to put down just one, X for half), a ring and then its slot to wear it; an item and then the trash can (right of the tabs) to throw it away, or your portrait to drop it on the ground (or drag it up over the tabs) |
 | SELECT | the journal (quests, special orders, achievements) |
 | START | options (quit from there) and skip events |
 
@@ -554,7 +554,7 @@ el DSP se emula.
 | L / R | elegir el objeto de la barra (la primera fila de la mochila); en el menú, recorrer las pestañas |
 | ZL / ZR (New 3DS) | pasar la barra a la fila siguiente de la mochila |
 | X | abrir la fabricación y después recorrer las pestañas |
-| Táctil | pestañas; en la mochila, toca dos espacios para cambiarlos (mantén Y al tocar dónde va para dejar uno solo, X para la mitad), y un anillo y después su espacio para ponértelo; un objeto y después el tacho (a la derecha de las pestañas) para tirarlo, o tu retrato para soltarlo en el suelo |
+| Táctil | pestañas; en la mochila, toca dos espacios para cambiarlos (mantén Y al tocar dónde va para dejar uno solo, X para la mitad), y un anillo y después su espacio para ponértelo; un objeto y después el tacho (a la derecha de las pestañas) para tirarlo, o tu retrato para soltarlo en el suelo (o arrastralo hasta las pestañas) |
 | SELECT | el diario (misiones, pedidos especiales, logros) |
 | START | opciones (desde ahí se sale) y saltear eventos |
 
