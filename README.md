@@ -6,7 +6,7 @@ An unofficial reimplementation of **Stardew Valley** for the Nintendo 3DS family
 
 **Languages:** English, Español, Français, Italiano, Português (Brasil), Русский, 简体中文, 한국어, 日本語. It starts in your console's language; change it in Options.
 
-**It's a beta.** It's played and tested on a New 3DS, and players run it on the original 3DS and 2DS too (it can be slower there). Found a problem? [Open an issue](https://github.com/gonzalo-araoz/SV3DS-releases/issues) saying what happened and, if you can, with a photo of the screen.
+**It's a beta.** It's played and tested on a New 3DS, and players run it on the original 3DS and 2DS too (it can be slower there). Found a problem? [Open an issue with the bug form](https://github.com/gonzalo-araoz/SV3DS-releases/issues/new?template=bug_report.md): what happened, how to make it happen again, the version, your console and, if you can, a photo of the screen.
 
 **Download:** [latest release](https://github.com/gonzalo-araoz/SV3DS-releases/releases/latest) · *[Guía en español](#sv3ds--stardew-valley-para-nintendo-3ds)* · [Support the time put into it](#support)
 
@@ -375,7 +375,7 @@ Una reimplementación no oficial de **Stardew Valley** para la familia Nintendo 
 
 **Idiomas:** English, Español, Français, Italiano, Português (Brasil), Русский, 简体中文, 한국어, 日本語. Arranca en el idioma de tu consola; se cambia en Opciones.
 
-**Es una beta.** Se juega y se prueba en una New 3DS, y los jugadores también la usan en las 3DS y 2DS originales (ahí puede ir más lenta). ¿Encontraste un problema? [Abrí un issue](https://github.com/gonzalo-araoz/SV3DS-releases/issues) contando qué pasó y, si podés, con una foto de la pantalla.
+**Es una beta.** Se juega y se prueba en una New 3DS, y los jugadores también la usan en las 3DS y 2DS originales (ahí puede ir más lenta). ¿Encontraste un problema? [Abrí un issue con el formulario de error](https://github.com/gonzalo-araoz/SV3DS-releases/issues/new?template=bug_report.md): qué pasó, cómo repetirlo, la versión, tu consola y, si podés, una foto de la pantalla.
 
 **Descarga:** [última versión](https://github.com/gonzalo-araoz/SV3DS-releases/releases/latest) · [Apoyar el tiempo que lleva](#apoyo)
 
