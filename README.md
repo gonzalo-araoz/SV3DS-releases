@@ -6,7 +6,7 @@ An unofficial reimplementation of **Stardew Valley** for the Nintendo 3DS family
 
 **Languages:** English, Español, Français, Italiano, Português (Brasil), Русский, 简体中文, 한국어, 日本語. It starts in your console's language; change it in Options.
 
-**It's a beta.** It's played and tested on a New 3DS, and players run it on the original 3DS and 2DS too (it can be slower there). Found a problem? [Open an issue with the bug form](https://github.com/gonzalo-araoz/SV3DS-releases/issues/new?template=bug_report.md): what happened, how to make it happen again, the version, your console and, if you can, a photo of the screen.
+**It's a beta.** It's played and tested on a New 3DS, and players run it on the original 3DS and 2DS too (it can be slower there). Found a problem? [Open an issue with the bug form](https://github.com/gonzalo-araoz/SV3DS-releases/issues/new?template=bug_report_en.md): what happened, how to make it happen again, the version, your console and, if you can, a photo of the screen.
 
 **Download:** [latest release](https://github.com/gonzalo-araoz/SV3DS-releases/releases/latest) · *[Guía en español](#sv3ds--stardew-valley-para-nintendo-3ds)* · [Support the time put into it](#support)
 
