@@ -32,7 +32,7 @@ Texture mods can work: replace images in your `Content` folder before converting
 events (SMAPI, Content Patcher) don't. See [Mods](README.md#mods-experimental).
 
 ### Which languages does it have?
-English, Español, Français, Italiano, Português (Brasil), Русский, 简体中文, 한국어 and 日本語. It starts in your
+English, Español, Français, Italiano, Deutsch, Magyar, Türkçe, Português (Brasil), Русский, 简体中文, 한국어 and 日本語. It starts in your
 console's language; change it in Options.
 
 ### Is it the whole game?
@@ -80,7 +80,7 @@ Los mods de texturas pueden funcionar: reemplazá imágenes en tu carpeta `Conte
 código, objetos, mapas o eventos (SMAPI, Content Patcher) no. Mirá [Mods](README.md#mods-experimentales).
 
 ### ¿Qué idiomas tiene?
-English, Español, Français, Italiano, Português (Brasil), Русский, 简体中文, 한국어 y 日本語. Arranca en el idioma de tu
+English, Español, Français, Italiano, Deutsch, Magyar, Türkçe, Português (Brasil), Русский, 简体中文, 한국어 y 日本語. Arranca en el idioma de tu
 consola; se cambia en Opciones.
 
 ### ¿Es el juego completo?
