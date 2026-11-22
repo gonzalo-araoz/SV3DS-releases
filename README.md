@@ -56,6 +56,9 @@ Find where Stardew Valley is installed on your computer:
 
 - **Steam:** in your library, right click *Stardew Valley* → *Manage* → *Browse local files*.
 - **GOG Galaxy:** *More* → *Manage installation* → *Show folder*.
+- **Mac:** the game is an app. Open its folder as above, right click *Stardew Valley.app* → *Show Package Contents*, and go
+  to `Contents/Resources`. The `Content` folder there (the one with `Data`, `Maps`, `Characters`...) is the one to
+  copy, not `Contents`.
 
 It needs the game's current version, **1.6**. On Steam that's the *Default Public Version* (Properties → Betas), the one it's tested with. `legacy_1.5.6` doesn't work.
 
@@ -425,6 +428,9 @@ Buscá dónde está instalado Stardew Valley en tu computadora:
 
 - **Steam:** en la biblioteca, clic derecho en *Stardew Valley* → *Administrar* → *Ver archivos locales*.
 - **GOG Galaxy:** *Más* → *Administrar instalación* → *Mostrar carpeta*.
+- **Mac:** el juego es una app. Abrí su carpeta como arriba, clic derecho en *Stardew Valley.app* → *Mostrar contenido
+  del paquete* y entrá a `Contents/Resources`. La carpeta `Content` que está ahí (la que tiene `Data`, `Maps`,
+  `Characters`...) es la que hay que copiar, no `Contents`.
 
 Hace falta la versión actual del juego, la **1.6**. En Steam es la *Default Public Version* (Propiedades → Betas), la que se usa para probarlo. `legacy_1.5.6` no funciona.
 
